@@ -2,7 +2,7 @@
 - 👀 I’m interested in many things
 - 🌱 I’m currently learning about myself....Haha
 - 💞️ I’m looking to collaborate on DatascienceAI/ML
-- 📫 How to reach me ...jayasurya28198@gmail.comm
+- 📫 How to reach me ...jayasurya28198@gmail.com
 
 <!---
 User28198/User28198 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
