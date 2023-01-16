@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @User28198
-- 👀 I’m interested in many things
-- 🌱 I’m currently learning about myself....Haha
-- 💞️ I’m looking to collaborate on DatascienceAI/ML
 - 📫 How to reach me ...jayasurya28198@gmail.com
 
 <!---
